@@ -1,0 +1,13 @@
+name = "RayTracingKerr"
+uuid = "68fc317e-5f1e-4cb9-ae20-4610c26abf09"
+authors = ["Giorgos Vretinaris"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
