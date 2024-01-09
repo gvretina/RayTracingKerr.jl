@@ -22,6 +22,8 @@ const pos_mask = [true, true, true, true, false, false, false, false]
 const vel_mask = .~pos_mask
 const cart_mask = [false, true, true, true, false, false, false, false]
 
+export kerr_schild, trace_rays
+
 function kerr_schild(xx::SVector{4,T}) where {T}
     M = 1
     t, x, y, z = xx
