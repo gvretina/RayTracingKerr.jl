@@ -4,3 +4,5 @@
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://gvretina.github.io/RayTracingKerr.jl/dev/)
 [![Build Status](https://github.com/gvretina/RayTracingKerr.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/gvretina/RayTracingKerr.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/gvretina/RayTracingKerr.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/gvretina/RayTracingKerr.jl)
+
+Just playing around with the implementation given [here]([https://www.example.com](https://github.com/eschnett/RayTraceGR.jl)).
